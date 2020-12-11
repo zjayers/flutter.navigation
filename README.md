@@ -1,9 +1,21 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Flutter Navigation
+[![GitHub Release](https://img.shields.io/github/release/zjayers/flutter.navigation.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/flutter.navigation.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/flutter.navigation.svg?maxAge=25000)](https://github.com/zjayers/flutter.navigation/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/flutter.navigation/blob/master/LICENSEs)
 
+## Description
 
-# Flutter Navigation Demo
+> Work in progress
 
+## Features
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+> Work in progress
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+## Installation
+
+> Work in progress
+
+## Usage
+
+> Work in progress
