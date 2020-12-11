@@ -1,8 +1,7 @@
 # Flutter Navigation
-[![GitHub Release](https://img.shields.io/github/release/zjayers/flutter.navigation.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/flutter.navigation.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/flutter.navigation.svg?style=flat)](https://github.com/zjayers/flutter.navigation/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/flutter.navigation.svg?style=flat)](https://github.com/zjayers/flutter.navigation/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/flutter.navigation.svg?maxAge=25000)](https://github.com/zjayers/flutter.navigation/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/flutter.navigation/blob/master/LICENSEs)
 
 ## Description
 
